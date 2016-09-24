@@ -49,12 +49,12 @@
 	<div class="container">
 
 		<div class="box">
-			<h1>现代PHP工程师之路 <a href="">?</a></h1>
-			<p><b>这些是必学的</b></p>
+			<h1>现代Web工程师之路 <a href="">?</a></h1>
+			<p><b>这些是必备的</b></p>
 			<p>
 				<small>前端:</small>
 				<ul>
-					<li><a href="">Html</a></li>
+					<li><a href="">Html</a><a href="http://www.w3school.com.cn/html/">w3c标准教程</a></li>
 					<li><a href="">Css</a></li>
 					<li><a href="">Js</a></li>
 				</ul>
